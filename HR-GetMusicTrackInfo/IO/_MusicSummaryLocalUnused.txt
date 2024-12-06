@@ -1,0 +1,130 @@
+banjo_end_pos
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Banjo_End_Pos".
+	L2 : IN REGION : "M5_S1_end_Pos_region".
+	(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Banjo_End_Pos".
+	L3 : IN REGION : "M3_end_Pos_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Banjo_End_Pos".
+	L4 : IN REGION : "M2_end_Pos_region".
+bollywood02_end_pos
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bollywood02_End_Pos".
+	L2 : IN REGION : "M5_S2_end_Pos_region".
+	(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Bollywood02_End_Pos".
+	L5 : IN REGION : "M4_end_Pos_region".
+	L5 : IN REGION : "M7_end_Pos_region".
+	L5 : USES ALIAS "Bollywood02_End_Pos".
+	L5 : IN REGION : "M4_end_Pos_region".
+	L5 : IN REGION : "M7_end_Pos_region".
+collection01d_drama
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Collection01d_Drama".
+	L1 : IN REGION : "M6_start_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Collection01d_Drama".
+	L3 : IN REGION : "M2_drama_region".
+	(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+collection01d_end_pos
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Collection01d_End_Pos".
+	L1 : IN REGION : "M6_end_Pos_region".
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Collection01d_End_Pos".
+	L2 : IN REGION : "M2_S1_end_Pos_region".
+	(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Collection01d_End_Pos".
+	L3 : IN REGION : "M2_end_Pos_region".
+gogo_drama
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Gogo_Drama".
+	L1 : IN REGION : "M2_drama_region".
+	(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Gogo_Drama".
+	L4 : IN REGION : "M1_main_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Gogo_Drama".
+	L7 : IN REGION : "M6_drama_region".
+	(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+hallsballs_end_pos2
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Halls_Balls_End_Pos".
+	L6 : IN REGION : "Bonus_end_Pos_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Halls_Balls_End_Pos".
+	L7 : IN REGION : "M4_S1_end_Pos_region".
+	(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+homer\tuba_028
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_028".
+	L1 : IN REGION : "OF_explore_region".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Tuba_028".
+homer\tuba_062
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_062".
+	L1 : IN REGION : "OF_time_out_region".
+	(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Tuba_062".
+	L7 : IN REGION : "OF_found_card_region".
+homer\tuba_063
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_063".
+	L1 : IN REGION : "OF_time_out_region".
+	(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Tuba_063".
+	L7 : IN REGION : "OF_found_card_region".
+motown_end_sus
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "M5_End_Sus".
+	L1 : IN REGION : "M5_end_Sus_region".
+	(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Sunday_Drive_End_Sus".
+	L3 : IN REGION : "Sunday_Drive_Sus_region".
+	L3 : USES ALIAS "M6_End_Sus".
+	L3 : IN REGION : "M6_end_Sus_region".
+orch_chase01_drama
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Orch_Chase01_Drama".
+	L1 : IN REGION : "M7_drama_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Orch_Chase01_Drama".
+	L4 : IN REGION : "M4_drama_region".
+	(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Orch_Chase01_Drama".
+	L7 : IN REGION : "M7_drama_region".
+	(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+orch_chase01_drama_pickup_b3
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Orch_Chase01_Drama_Pickup".
+	L1 : IN REGION : "M7_drama_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Orch_Chase01_Drama_Pickup".
+	L4 : IN REGION : "M4_drama_region".
+	(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Orch_Chase01_Drama_Pickup".
+	L7 : IN REGION : "M7_drama_region".
+	(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+sunday_drive_intro
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Sunday_Drive_Intro".
+	L1 : IN REGION : "Sunday_Drive_region".
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Bonus_intro".
+	L3 : IN REGION : "Bonus_main_region".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Sunday_Drive_Intro".
+	L4 : IN REGION : "Sunday_Drive_region".
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Sunday_Drive_Intro".

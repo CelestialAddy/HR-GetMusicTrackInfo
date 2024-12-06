@@ -1,0 +1,44 @@
+### Region names included in here are considered "unused" by the game, and hence so by the PY scripts.
+### Format is "case_sensitive_region_name\t1_based_level_index_or_0_for_all".
+### The same region can be set multiple times in a few different levels only, as well.
+### Anything on a line after # is ignored.
+
+### This might not be all of them, but it is at least most of them...
+
+### Generic regions in every Level that outright never get hardcodedly called.
+FE_trans01	0
+OF_time_out_region	0
+Level_Completed_region	0
+Destroy_Camera_Bonus_region	0
+### Mission drama events that never get called (either at all, or properly).
+M2_drama_region	1
+M6_drama_region	7
+M2_drama_region	3
+#M6_drama_region	5	# Technically used via ASMC, though also has bad SSME calls.
+M7_drama_region	7
+M4_drama_region	4
+### Exit vehicle events that cannot be triggered due to music circumstances.
+M5_end_Sus_region	1
+M6_end_Sus_region	4
+### Mission completion events that cannot be triggered due to music state switches.
+M2_S1_end_Pos_region	2
+M5_S1_end_Pos_region	2
+M5_S2_end_Pos_region	2
+M7_S1_end_Pos_region	4
+M4_S1_end_Pos_region	7
+M4_S2_end_Neg_region	7
+### Odd duplicate music regions not attached to anything.
+M3_drama_region	2
+M3_victory_region	2
+M3_end_drama_region	2
+M1_drama_region	3
+M1_victory_region	3
+M1_end_drama_region	3
+# Miscellaneous, cannot at all or typically be triggered for various reasons.
+StoneCutters_region	0
+StoneCutters_Tunnel_region	7
+OF_Apu_Oasis_region	7
+M4_10sec_region	1
+Bonus_10sec_region	4
+
+### End of file.

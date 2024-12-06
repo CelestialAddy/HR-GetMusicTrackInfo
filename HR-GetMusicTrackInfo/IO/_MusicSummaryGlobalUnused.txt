@@ -1,0 +1,239 @@
+bart_chase02_end_sus1
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Bart_Chase02_End_Sus1".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Bart_Chase02_End_Sus1".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Bart_Chase02_End_Sus1".
+collection01d_drama_pickup_b3
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Collection01d_Drama_Pickup".
+		L3 : IN REGION : "M2_drama_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+fe_trans01
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "FE_trans01".
+		L1 : IN REGION : "FE_trans01".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "FE_trans01".
+		L2 : IN REGION : "FE_trans01".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "FE_trans01".
+		L3 : IN REGION : "FE_trans01".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "FE_trans01".
+		L4 : IN REGION : "FE_trans01".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "FE_trans01".
+		L5 : IN REGION : "FE_trans01".
+		(L5 : ABOVE REGION OVERRULED AS UNUSED.)
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "FE_trans01".
+		L6 : IN REGION : "FE_trans01".
+		(L6 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "FE_trans01".
+		L7 : IN REGION : "FE_trans01".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+fe_trans02
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "FE_trans02".
+		L1 : IN REGION : "FE_trans01".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "FE_trans02".
+		L2 : IN REGION : "FE_trans01".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "FE_trans02".
+		L3 : IN REGION : "FE_trans01".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "FE_trans02".
+		L4 : IN REGION : "FE_trans01".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "FE_trans02".
+		L5 : IN REGION : "FE_trans01".
+		(L5 : ABOVE REGION OVERRULED AS UNUSED.)
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "FE_trans02".
+		L6 : IN REGION : "FE_trans01".
+		(L6 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "FE_trans02".
+		L7 : IN REGION : "FE_trans01".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+fe_trans03
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "FE_trans03".
+		L1 : IN REGION : "FE_trans01".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "FE_trans03".
+		L2 : IN REGION : "FE_trans01".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "FE_trans03".
+		L3 : IN REGION : "FE_trans01".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "FE_trans03".
+		L4 : IN REGION : "FE_trans01".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "FE_trans03".
+		L5 : IN REGION : "FE_trans01".
+		(L5 : ABOVE REGION OVERRULED AS UNUSED.)
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "FE_trans03".
+		L6 : IN REGION : "FE_trans01".
+		(L6 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "FE_trans03".
+		L7 : IN REGION : "FE_trans01".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+generic\of_time_out01
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "OF_time_out01".
+		L2 : IN REGION : "OF_time_out_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "OF_time_out01".
+		L3 : IN REGION : "OF_time_out_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_time_out01".
+		L4 : IN REGION : "OF_time_out_region".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "OF_time_out01".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "OF_time_out01".
+		L6 : IN REGION : "OF_time_out_region".
+		(L6 : ABOVE REGION OVERRULED AS UNUSED.)
+generic\of_time_out02
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "OF_time_out02".
+		L2 : IN REGION : "OF_time_out_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "OF_time_out02".
+		L3 : IN REGION : "OF_time_out_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "OF_time_out02".
+		L4 : IN REGION : "OF_time_out_region".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "OF_time_out02".
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "OF_time_out02".
+		L6 : IN REGION : "OF_time_out_region".
+		(L6 : ABOVE REGION OVERRULED AS UNUSED.)
+gogo_drama_pickup
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Gogo_Drama_Pickup".
+		L1 : IN REGION : "M2_drama_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+halloween\organ_music
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Organ_Music".
+		L7 : IN REGION : "StoneCutters_Tunnel_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+homer\homer_reward01
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Homer_Reward01".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Homer_Reward01".
+homer\homer_reward02
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Homer_Reward02".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Homer_Reward02".
+homer\tuba_044
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_044".
+		L1 : IN REGION : "OF_time_out_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+homer\tuba_053
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_053".
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Tuba_053".
+homer\tuba_059
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_059".
+	L1 : USES ALIAS "Tuba_059".
+homer\tuba_061
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Tuba_061".
+	L1 : USES ALIAS "Tuba_061".
+land_of_choc_end_neg
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Land_of_Choc_End_Neg".
+		L7 : IN REGION : "M4_S2_end_Neg_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+marge\lounge010
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge010".
+marge\lounge_trans06
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Lounge_Trans06".
+marge\tuba_024
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Tuba_024".
+nick_end_sus
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Nick_End_Sus".
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Nick_End_Sus".
+		L4 : IN REGION : "M6_end_Sus_region".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+powerplant_10sec
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "PowerPlant_10sec".
+		L1 : IN REGION : "M4_10sec_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "PowerPlant_10sec".
+		L4 : IN REGION : "Bonus_10sec_region".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+scarymusic01
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "ScaryMusic01".
+		L7 : IN REGION : "OF_Apu_Oasis_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)
+stone_cutter_spoof
+	L1 : IS INITIALISED.
+	L1 : USES ALIAS "Stone_Cutter_Spoof".
+		L1 : IN REGION : "StoneCutters_region".
+		(L1 : ABOVE REGION OVERRULED AS UNUSED.)
+	L2 : IS INITIALISED.
+	L2 : USES ALIAS "Stone_Cutter_Spoof".
+		L2 : IN REGION : "StoneCutters_region".
+		(L2 : ABOVE REGION OVERRULED AS UNUSED.)
+	L3 : IS INITIALISED.
+	L3 : USES ALIAS "Stone_Cutter_Spoof".
+		L3 : IN REGION : "StoneCutters_region".
+		(L3 : ABOVE REGION OVERRULED AS UNUSED.)
+	L4 : IS INITIALISED.
+	L4 : USES ALIAS "Stone_Cutter_Spoof".
+		L4 : IN REGION : "StoneCutters_region".
+		(L4 : ABOVE REGION OVERRULED AS UNUSED.)
+	L5 : IS INITIALISED.
+	L5 : USES ALIAS "Stone_Cutter_Spoof".
+		L5 : IN REGION : "StoneCutters_region".
+		(L5 : ABOVE REGION OVERRULED AS UNUSED.)
+	L6 : IS INITIALISED.
+	L6 : USES ALIAS "Stone_Cutter_Spoof".
+		L6 : IN REGION : "StoneCutters_region".
+		(L6 : ABOVE REGION OVERRULED AS UNUSED.)
+	L7 : IS INITIALISED.
+	L7 : USES ALIAS "Stone_Cutter_Spoof".
+		L7 : IN REGION : "StoneCutters_region".
+		(L7 : ABOVE REGION OVERRULED AS UNUSED.)

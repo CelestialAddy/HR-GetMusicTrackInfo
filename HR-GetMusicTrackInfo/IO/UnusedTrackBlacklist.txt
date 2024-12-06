@@ -1,0 +1,14 @@
+### Track names in here are considered "unused" by the game, and hence so by the PY scripts.
+### This unused-ness is ABSOLUTE, NOT LEVEL-SPECIFIC.
+### Anything on a line after # is ignored.
+
+### Special cases (region assigned but either literally or typically unreachable).
+### Maintained as a hack/legacy feature/in case *absolutely needed*...
+### ... you should probably just use the UnusedRegionBlacklist by Level instead.
+#scarymusic01
+#halloween\organ_music
+#land_of_choc_end_neg
+#powerplant_10sec
+#nick_end_sus
+
+### End of file.
